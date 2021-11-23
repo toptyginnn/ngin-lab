@@ -1,1 +1,1 @@
-# ngin-lab
+# nginx-lab
